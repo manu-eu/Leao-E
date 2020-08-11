@@ -1,19 +1,19 @@
-<img src="https://github.com/Leao-E/Leao-E/blob/master/undraw_developer_activity_bv83.svg" width="350" align="right" />
+<img src="https://github.com/Leao-E/Leao-E/blob/master/undraw_developer_activity_bv83.svg" width="300" align="right" />
 
 ## Hello World :space_invader:	
 
 ### I'm Emanuel
 
-A fullstack developer with experience in Javascrip, PHP, Typescript and other stuffs. 
+A fullstack developer with experience in Javascrip, PHP and other stuffs. 
 
-My main knoladges are in:
+My main skills are:
   * NodeJS
   * ReactJS and React Native
   * MySQL, Postgree and MongoDB
   * Laravel
+  * Rest and GraphQL Api's  
   
-I'm also studying GraphQL, Apache Kafka and Deno Lang.
-  
+I'm also studying Apache Kafka and Deno Lang. 
 
 > the essence of a programmer is the capacity to adapt himself <br/>
 > to the new technologies and keep learning every day!
