@@ -1,4 +1,4 @@
-<img src="https://github.com/Leao-E/Leao-E/blob/master/undraw_dev_focus_b9xo.svg" width="300" align="right" />
+<img src="https://github.com/Leao-E/Leao-E/blob/master/undraw_dev_focus_b9xo.svg" width="350" align="right" />
 
 ## Hello World :space_invader:	
 
