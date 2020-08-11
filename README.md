@@ -15,7 +15,7 @@ My main skills are:
   
 I'm also studying Apache Kafka and Deno Lang. 
 
-> the essence of a programmer is the capacity to adapt himself <br/>
+> The essence of a programmer is the capacity to adapt himself <br/>
 > to the new technologies and keep learning every day!
 <!--
 **Leao-E/Leao-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
