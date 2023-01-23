@@ -1,7 +1,14 @@
-# Ops it's under construction :building_construction:
+# Hi there! 👋
 
-<p align="center">
+Nice to meet you
 
-<img src="https://github.com/manu-eu/manu-eu/blob/master/assets/cyborg-2.png" width="560" />
-  
-</p>
+```json
+{
+  "name": "Emanuel Felipe",
+  "age": 23,
+  "role": "Fullstack Developer",
+  "stack": ["PHP", "Javascript", "Typescript"],
+  "frameworks": ["Laravel", "Nest", "React", "Vue"],
+  "learning": ["Rust", "Astro"]
+}
+```
